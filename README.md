@@ -17,4 +17,4 @@ Records
 An abstract class that allows developers creating PHP classes with 
 functionality similar to Java records or Kotlin data classes.
 
-**Currently under active development.**
+**Currently under development.**
